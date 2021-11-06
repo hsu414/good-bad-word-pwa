@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <img src="Capture.PNG" alt=" something"></img>
+        <img src="logo.png" alt=""></img>
       </header>
       <HashRouter>
         <Routes>
