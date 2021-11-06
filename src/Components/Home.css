@@ -1,0 +1,12 @@
+.flex-column {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-left: 5vw;
+  padding-right: 5vw;
+  gap: 3vh;
+}
+
+.flex-column > div {
+  margin: 5vh;
+}
