@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/good-bad-word-pwa/static/css/main.d8ef0aca.chunk.css",
-    "main.js": "/good-bad-word-pwa/static/js/main.b1800d18.chunk.js",
-    "main.js.map": "/good-bad-word-pwa/static/js/main.b1800d18.chunk.js.map",
+    "main.js": "/good-bad-word-pwa/static/js/main.bfafd1bc.chunk.js",
+    "main.js.map": "/good-bad-word-pwa/static/js/main.bfafd1bc.chunk.js.map",
     "runtime-main.js": "/good-bad-word-pwa/static/js/runtime-main.a85e4ba1.js",
     "runtime-main.js.map": "/good-bad-word-pwa/static/js/runtime-main.a85e4ba1.js.map",
     "static/js/2.b2853c0f.chunk.js": "/good-bad-word-pwa/static/js/2.b2853c0f.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.a85e4ba1.js",
     "static/js/2.b2853c0f.chunk.js",
     "static/css/main.d8ef0aca.chunk.css",
-    "static/js/main.b1800d18.chunk.js"
+    "static/js/main.bfafd1bc.chunk.js"
   ]
 }
