@@ -9,7 +9,7 @@ interface HomeProps {
 
 // one component is basically a function that return a template
 export function Home(props: HomeProps) {
-  let [enteredWord, setEnteredWord] = useState<string>('fuck');
+  let [enteredWord, setEnteredWord] = useState<string>('pussy');
 
   let navigate = useNavigate();
 

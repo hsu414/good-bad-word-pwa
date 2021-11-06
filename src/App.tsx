@@ -1,6 +1,6 @@
 import './App.css';
 import { Home } from './Components/Home';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { Routes, Route, HashRouter } from 'react-router-dom';
 import { Result } from './Components/result';
 import { useState } from 'react';
 
@@ -15,12 +15,12 @@ function App() {
       <header>
         <img src="Capture.PNG" alt=" something"></img>
       </header>
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
           <Route path="/" element={<Home checkWord={updateWord}></Home>}></Route>
           <Route path="/result" element={<Result word={word}></Result>}></Route>
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
       <footer> Made with </footer>
     </div>
   );
